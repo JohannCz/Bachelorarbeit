@@ -1,2 +1,2 @@
 # Bachelorarbeit
-Quellcode, den ich zum erstellen meiner Bachelorarbeit benutzt habe.
+Quellcode, den ich beim erstellen meiner Bachelorarbeit benutzt habe.
